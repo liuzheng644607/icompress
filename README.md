@@ -22,3 +22,7 @@
 	});
 
 ```
+
+###demo
+![demo](https://raw.githubusercontent.com/liuzheng644607/icompress/master/www/qr-for-icompress.jpg)
+[demo链接](http://liuzheng644607.github.io/icompress/)
